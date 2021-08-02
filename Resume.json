@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Vivek yadav",
+		"label": "Student",
+		"picture": "https://pbs.twimg.com/profile_images/1382737290691178500/QQZwiN1p_400x400.jpg",
+		"email": "2020kucp1106@iiitkota.ac.in",
+		"phone": "7521985456",
+		"summary": "I am student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"location": {
+			"address": "Urwa bazar",
+			"postalCode": "273407",
+			"city": "Gorakhpur",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Vivek yadav",
+				"url": "https://www.github.com/Vivek97751/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Vivek yadav",
+				"url": "https://www.linkedin.com/in/vivek-yadav-8a786020b/"
+			},
+			{
+				"network": "Instagram",
+				"username": "Vivek4504yadav",
+				"url": "https://www.instagram.com/vivek4504yadav/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": "English"
+	}],
+	"interests": [{
+			"name": "Reading",
+			"keywords": [
+				"Holly books"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Ludo",
+				"Badminton"
+			]
+		}
+	],
+	"references": []
+}
